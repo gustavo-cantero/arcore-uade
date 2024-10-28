@@ -1,0 +1,1 @@
+Ejemplo de realidad aumentada para Android creada con ARCore, donde se muestra el logo de la UADE en 3D y, si se lo pulsa, abre la página de la facultad.
